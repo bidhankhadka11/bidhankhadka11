@@ -6,7 +6,7 @@
 
 - <b>Full Stack Workout Progress Tracker (MongoDB, Express, React, NodeJs)</b>
   - [Workout Buddy](https://github.com/bidhankhadka11/Workout-Buddy?tab=readme-ov-file)
-- <b>Flappy Bird Game on JAVA</b>
+- <b>Flappy Bird Game in JAVA</b>
   - [Flappy Bird](https://github.com/bidhankhadka11/Flappy-Bird-on-java)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
