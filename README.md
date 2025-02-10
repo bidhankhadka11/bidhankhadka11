@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Workout Progress Tracker (MongoDB, Express, React, NodeJs)</b>
-  - [Workout Buddy](https://github.com/bidhankhadka11/Workout-Buddy?tab=readme-ov-file)
+  - [Workout Buddy](https://github.com/bidhankhadka11/Workout-Buddy)
 - <b>AI ChatBot with different personalities</b>
   - [Chat AI](https://github.com/bidhankhadka11/AI-Chatbot)
 - <b>Flappy Bird Game in JAVA</b>
