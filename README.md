@@ -3,8 +3,6 @@
 👾 Welcome to my GitHub! I'm a sophomore at the University of Texas at Arlington, pursuing a Bachelor of Science in Computer Science. Currently mastering the art of debugging, caffeinating, and finding the semicolon I accidentally missed. Join me on my coding journey as I explore the weird and wonderful world of software development!
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Machine Learning Genetic Algorithm (JAVA)</b>
-  - [Genetic Algorithm](https://github.com/bidhankhadka11/Genetic-Algorithm)
 - <b>Full Stack Workout Progress Tracker (MongoDB, Express, React, NodeJs)</b>
   - [Workout Buddy](https://github.com/bidhankhadka11/Workout-Buddy)
 - <b>AI ChatBot with different personalities</b>
