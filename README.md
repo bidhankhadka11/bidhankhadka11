@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Machine Learning Genetic Algorithm (JAVA)</b>
-  -[Genetic Algorithm](https://github.com/bidhankhadka11/Genetic-Algorithm)
+  - [Genetic Algorithm](https://github.com/bidhankhadka11/Genetic-Algorithm)
 - <b>Full Stack Workout Progress Tracker (MongoDB, Express, React, NodeJs)</b>
   - [Workout Buddy](https://github.com/bidhankhadka11/Workout-Buddy)
 - <b>AI ChatBot with different personalities</b>
