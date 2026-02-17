@@ -8,7 +8,7 @@
   - [Genetic Algorithm](https://github.com/bidhankhadka11/Genetic-Algorithm)
 - <b>Full Stack Workout Progress Tracker (MongoDB, Express, React, NodeJs)</b>
   - [Workout Buddy](https://github.com/bidhankhadka11/Workout-Buddy)
-- <b>AI ChatBot with different personalities</b>
+- <b>AI ChatBot with different personalities  (Javascript, React, GeminiAPI, MongoDB, Node)</b>
   - [Chat AI](https://github.com/bidhankhadka11/AI-Chatbot)
 - <b>Flappy Bird Game in JAVA</b>
   - [Flappy Bird](https://github.com/bidhankhadka11/Flappy-Bird-on-java)
