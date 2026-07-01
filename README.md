@@ -4,6 +4,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Binary Classification Kaggle Challenge (Python, Matplotlib, Pandas, Numpy, Sickit-learn)</b>
+  - [Binary Classification](https://github.com/bidhankhadka11/binaryclassification)
+- <b>Rarify Android Marketplace App (Kotlin, Android Studio, Jetpack Compose)</b>
+  - [Rarify](https://github.com/bidhankhadka11/rarify-marketplace)
 - <b>Machine Learning Genetic Algorithm (JAVA)</b>
   - [Genetic Algorithm](https://github.com/bidhankhadka11/Genetic-Algorithm)
 - <b>Full Stack Workout Progress Tracker (MongoDB, Express, React, NodeJs)</b>
